@@ -1,6 +1,6 @@
 ﻿# TransitOps API
 
-A **.NET 8 ASP.NET Core Web API** for managing transit incidents, built as a portfolio project to demonstrate **CRUD operations, Entity Framework Core, DTOs, enums, and clean API design**.
+A **.NET 8 ASP.NET Core Web API** for managing transit incidents, built to demonstrate **CRUD operations, Entity Framework Core, DTOs, enums, and clean API design**.
 
 ---
 
